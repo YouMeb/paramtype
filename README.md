@@ -1,6 +1,8 @@
 paramtype
 =========
 
+> urad 的 npm registry
+
 ```javascript
 console.log(paramtype.decode('n:123')); // 123
 console.log(paratype.encode(123)); // n:123
